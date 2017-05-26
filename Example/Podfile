@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TFCategory_Example' do
+  pod 'TFCategory', :path => '../'
+
+  target 'TFCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
