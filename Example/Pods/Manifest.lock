@@ -1,0 +1,16 @@
+PODS:
+  - TFCategory (0.1.0)
+
+DEPENDENCIES:
+  - TFCategory (from `../`)
+
+EXTERNAL SOURCES:
+  TFCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TFCategory: 239fb6fb36d0f59cd8c7644982bec2a838ba62dc
+
+PODFILE CHECKSUM: 95994fd17ebf55c82a3f7a0d9c42a16118aae884
+
+COCOAPODS: 1.2.1

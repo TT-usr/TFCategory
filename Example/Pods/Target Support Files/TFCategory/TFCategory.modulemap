@@ -1,0 +1,6 @@
+framework module TFCategory {
+  umbrella header "TFCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
